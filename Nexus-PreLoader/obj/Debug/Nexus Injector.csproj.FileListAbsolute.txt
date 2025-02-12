@@ -1,0 +1,31 @@
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-Injector\Nexus-PreLoader\bin\Debug\FASM-LICENSE.TXT
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-Injector\Nexus-PreLoader\bin\Debug\FASM.DLL
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-Injector\Nexus-PreLoader\bin\Debug\FASMX64.DLL
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-Injector\Nexus-PreLoader\bin\Debug\Reloaded.Assembler.targets
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-Injector\Nexus-PreLoader\bin\Debug\Nexus-PreLoader.exe.config
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-Injector\Nexus-PreLoader\bin\Debug\Nexus-PreLoader.exe
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-Injector\Nexus-PreLoader\bin\Debug\Nexus-PreLoader.pdb
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-Injector\Nexus-PreLoader\bin\Debug\PeNet.Asn1.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-Injector\Nexus-PreLoader\bin\Debug\PeNet.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-Injector\Nexus-PreLoader\bin\Debug\Reloaded.Assembler.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-Injector\Nexus-PreLoader\bin\Debug\Reloaded.Injector.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-Injector\Nexus-PreLoader\bin\Debug\Reloaded.Memory.Buffers.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-Injector\Nexus-PreLoader\bin\Debug\Reloaded.Memory.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-Injector\Nexus-PreLoader\bin\Debug\System.Buffers.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-Injector\Nexus-PreLoader\bin\Debug\System.Memory.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-Injector\Nexus-PreLoader\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-Injector\Nexus-PreLoader\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-Injector\Nexus-PreLoader\bin\Debug\Reloaded.Assembler.pdb
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-Injector\Nexus-PreLoader\bin\Debug\Reloaded.Assembler.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-Injector\Nexus-PreLoader\bin\Debug\Reloaded.Injector.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-Injector\Nexus-PreLoader\bin\Debug\Reloaded.Memory.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-Injector\Nexus-PreLoader\bin\Debug\Reloaded.Memory.Buffers.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-Injector\Nexus-PreLoader\bin\Debug\System.Buffers.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-Injector\Nexus-PreLoader\bin\Debug\System.Memory.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-Injector\Nexus-PreLoader\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-Injector\Nexus-PreLoader\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-Injector\Nexus-PreLoader\obj\Debug\Nexus Injector.csproj.AssemblyReference.cache
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-Injector\Nexus-PreLoader\obj\Debug\Nexus Injector.csproj.CoreCompileInputs.cache
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-Injector\Nexus-PreLoader\obj\Debug\Nexus In.1C579610.Up2Date
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-Injector\Nexus-PreLoader\obj\Debug\Nexus-PreLoader.exe
+C:\Users\PinkW\Desktop\Repos\NEXUS\Nexus-Injector\Nexus-PreLoader\obj\Debug\Nexus-PreLoader.pdb
