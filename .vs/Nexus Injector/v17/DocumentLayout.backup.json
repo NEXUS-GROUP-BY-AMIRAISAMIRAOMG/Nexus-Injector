@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Injector\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A290648-F50C-4109-9720-B1C618DD70E5}|Nexus-PreLoader\\Nexus Injector.csproj|c:\\users\\pinkw\\desktop\\repos\\nexus\\nexus-injector\\nexus-preloader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A290648-F50C-4109-9720-B1C618DD70E5}|Nexus-PreLoader\\Nexus Injector.csproj|solutionrelative:nexus-preloader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +23,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Injector\\Nexus-PreLoader\\Program.cs",
+              "RelativeDocumentMoniker": "Nexus-PreLoader\\Program.cs",
+              "ToolTip": "C:\\Users\\PinkW\\Desktop\\Repos\\NEXUS\\Nexus-Injector\\Nexus-PreLoader\\Program.cs",
+              "RelativeToolTip": "Nexus-PreLoader\\Program.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAAI0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T03:28:26.9Z",
+              "EditorCaption": ""
             }
           ]
         }
